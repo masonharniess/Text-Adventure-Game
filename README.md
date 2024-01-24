@@ -3,7 +3,7 @@ Coursework assignment for a C++ module at the University of Leicester.
 
 ## Instructions
 1. Download repository code.
-2. In your Terminal or Command Prompt go t*emphasized text*he the project folder and execute the  command ```./main resources/[map.json]``` where [map.json] is your preferred map (i.e. ```map1.json```)
+2. In Terminal, go the the project folder and execute the  command ```./main resources/[map.json]``` where ```[map.json]``` is your preferred map (i.e. ```map1.json```)
 3. Once the game has begun, the player can use the following input commands to interact with the environment:
     - ```look``` or ```look around``` to view the information about the room.
     - ```go x``` where ```x``` is an exit of that name within the current room (i.e. ```go east```, ```go left```).
